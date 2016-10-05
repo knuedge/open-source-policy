@@ -1,4 +1,4 @@
-As a work of the United States government, this project is in the
+This project is and should remain in the
 public domain within the United States.
 
 Additionally, we waive copyright and related rights in the work

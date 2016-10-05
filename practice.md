@@ -20,7 +20,7 @@ Much of the work done by KnuEdge for its core products and paid services are sup
 
 Open source software is part of what makes most modern software companies successful. KnuEdge owes a great deal to those that started many open source software projects and to the community that continues to contribute to them.
 
-> If I have seen further it is by standing on the sholders of Giants.
+> If I have seen further it is by standing on the shoulders of Giants.
 --- Isaac Newton
 
 KnuEdge strives to be a member of that community and create software that can be used by others to be successful as well.

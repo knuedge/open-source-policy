@@ -96,7 +96,7 @@ Sensitive information we need to protect includes, but is not limited to:
 * Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re a KnuEdge team member working with this kind of data, ask KnuEdge IT or your BU lead for help determining whether it can be public.
 * Emergency procedures, such as evacuation plans.
 
-There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. Here's a [more complete list.](http://www.archives.gov/cui/registry/category-list.html) as an example.
+There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. Here's a [more complete list](http://www.archives.gov/cui/registry/category-list.html) as an example.
 
 ### Managing KnuEdge resources
 

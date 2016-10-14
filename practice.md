@@ -73,9 +73,9 @@ Projects can **encourage public contributions** by:
 * Providing solid documentation for any project setup process.
 * Being super nice when communicating with volunteers.
 
-As in the [open source policy](policy.md), non-core KnuEdge projects are made FOSS whenever possible. In this situation, contributors must agree to release their contributions under whichever license the project itself is released. Projects can inform contributors of this agreement by copying the [`CONTRIBUTING.md` template](CONTRIBUTING_TEMPLATE.md) and [the README.md template](README_TEMPLATE.md) file from this repo into new project repos.
+As described in the [open source policy](policy.md), non-core KnuEdge projects are made FOSS whenever possible. In this situation, contributors must agree to release their contributions under whichever license the project itself is released. Projects can inform contributors of this agreement by copying the [`CONTRIBUTING.md`](CONTRIBUTING_TEMPLATE.md) template and the [`README.md`](README_TEMPLATE.md) file from this repo into new project repos.
 
-When an KnuEdge project has a non-standard license status (e.g. it's a fork of a previously licensed project, or is a module/plugin for a GPL project), then that project needs to figure out an appropriate contributing agreement.
+When a KnuEdge project has a non-standard license status (e.g. it's a fork of a previously licensed project, or is a module/plugin for a GPL project), then that project needs to figure out an appropriate contributing agreement.
 
 ### Protecting sensitive information
 
@@ -91,12 +91,12 @@ Sensitive information we need to protect includes, but is not limited to:
     * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something.
     * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with scanning tools), we shouldn’t write publicly about it until we fix it.
 * Nonpublic information in general about vulnerabilities, including attribution/source information (such as how and when we learned about a vulnerability, if the disclosure to us was not public).
-* We may wish to withhold some non-KnuEdge IP addresses. If something looks like an IP address, ask KnuEdge Infrastructure before publishing that info.
-* Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256).
-* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an KnuEdge team member working with this kind of data, ask KnuEdge IT or your BU lead for help determining whether it can be public.
+* We may wish to withhold some non-KnuEdge IP addresses. If something looks like an IP address, ask KnuEdge IT before publishing that info.
+* Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256) as an example of what this means.
+* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re a KnuEdge team member working with this kind of data, ask KnuEdge IT or your BU lead for help determining whether it can be public.
 * Emergency procedures, such as evacuation plans.
 
-There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. [Here’s the complete list.](http://www.archives.gov/cui/registry/category-list.html)
+There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. Here's a '[more complete list.](http://www.archives.gov/cui/registry/category-list.html) as an example.
 
 ### Managing KnuEdge resources
 

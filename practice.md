@@ -79,7 +79,7 @@ When a KnuEdge project has a non-standard license status (e.g. it's a fork of a 
 
 ### Protecting sensitive information
 
-As part of responsibly working in the open, KnuEdge team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), legal, and security reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
+As part of responsibly working in the open, KnuEdge team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), legal, and security reasons — this section is a reminder about sensitive information (sometimes called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
 
 If KnuEdge team members aren't sure whether they should make something public, they should ask a person on our KnuEdge IT team for advice _first_.
 
@@ -96,7 +96,7 @@ Sensitive information we need to protect includes, but is not limited to:
 * Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re a KnuEdge team member working with this kind of data, ask KnuEdge IT or your BU lead for help determining whether it can be public.
 * Emergency procedures, such as evacuation plans.
 
-There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. Here's a '[more complete list.](http://www.archives.gov/cui/registry/category-list.html) as an example.
+There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. Here's a [more complete list.](http://www.archives.gov/cui/registry/category-list.html) as an example.
 
 ### Managing KnuEdge resources
 
